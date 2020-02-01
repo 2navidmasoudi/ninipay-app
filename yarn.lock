@@ -10806,7 +10806,7 @@ reactotron-mst@^3.1.1:
   dependencies:
     ramda "^0.25.0"
 
-reactotron-react-native@^4.0.0-beta.1:
+reactotron-react-native@^4.0.3:
   version "4.0.3"
   resolved "https://registry.yarnpkg.com/reactotron-react-native/-/reactotron-react-native-4.0.3.tgz#f283695339b219f0b61f83759d7d837f49511439"
   integrity sha512-Zya4Teqm3zN7KhOzI5a5Q6yiFl4nIubzMNcMlfTng6EnkytyWF2GtBLvcLYmJo/2osjgHdjZzgZjcive0tYXKQ==
